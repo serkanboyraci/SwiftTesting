@@ -17,7 +17,7 @@ class MathematicFunctions {
         return x * y
     }
     
-    func divideIntegers(x: Int, y: Int) -> {
+    func divideIntegers(x: Int, y: Int) -> Int {
         return x / y
     }
     
