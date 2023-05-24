@@ -16,6 +16,7 @@
 		6050DA442A1E0AE500FB4495 /* SwiftTestingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6050DA432A1E0AE500FB4495 /* SwiftTestingTests.swift */; };
 		6050DA4E2A1E0AE500FB4495 /* SwiftTestingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6050DA4D2A1E0AE500FB4495 /* SwiftTestingUITests.swift */; };
 		6050DA502A1E0AE500FB4495 /* SwiftTestingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6050DA4F2A1E0AE500FB4495 /* SwiftTestingUITestsLaunchTests.swift */; };
+		6050DA5D2A1E0F9F00FB4495 /* MathematicFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6050DA5C2A1E0F9F00FB4495 /* MathematicFunctions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6050DA492A1E0AE500FB4495 /* SwiftTestingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftTestingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6050DA4D2A1E0AE500FB4495 /* SwiftTestingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftTestingUITests.swift; sourceTree = "<group>"; };
 		6050DA4F2A1E0AE500FB4495 /* SwiftTestingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftTestingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6050DA5C2A1E0F9F00FB4495 /* MathematicFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MathematicFunctions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				6050DA352A1E0AE500FB4495 /* Assets.xcassets */,
 				6050DA372A1E0AE500FB4495 /* LaunchScreen.storyboard */,
 				6050DA3A2A1E0AE500FB4495 /* Info.plist */,
+				6050DA5C2A1E0F9F00FB4495 /* MathematicFunctions.swift */,
 			);
 			path = SwiftTesting;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				6050DA312A1E0AE300FB4495 /* ViewController.swift in Sources */,
 				6050DA2D2A1E0AE300FB4495 /* AppDelegate.swift in Sources */,
+				6050DA5D2A1E0F9F00FB4495 /* MathematicFunctions.swift in Sources */,
 				6050DA2F2A1E0AE300FB4495 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
